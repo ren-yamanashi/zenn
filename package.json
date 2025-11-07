@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint:txt": "textlint '**/*.md'"
   },
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.17.1",
   "devDependencies": {
+    "@secretlint/secretlint-rule-preset-recommend": "^11.2.5",
+    "secretlint": "^11.2.5",
+    "textlint": "^15.2.3",
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
     "zenn-cli": "^0.2.10"
   }
 }

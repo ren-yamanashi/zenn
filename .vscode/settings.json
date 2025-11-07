@@ -1,0 +1,10 @@
+{
+  "textlint.autoFixOnSave": true,
+  "textlint.languages": ["markdown"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "always"
+  },
+  "markdownlint.config": {
+    "MD041": false
+  },
+}

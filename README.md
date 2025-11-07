@@ -1,12 +1,3 @@
----
-date: 2025-11-07
-modified: 2025-11-07
-tags: type/zenn
-aliases:
-  - Zenn README
-  - Zenn公開リポジトリ
----
-
 [![Likes](https://badgen.org/img/zenn/yamaren/likes?style=flat)](https://zenn.dev/yamaren) [![Articles](https://badgen.org/img/zenn/yamaren/articles?style=flat)](https://zenn.dev/yamaren) [![Books](https://badgen.org/img/zenn/yamaren/books?style=flat)](https://zenn.dev/yamaren?tab=books)
 
 ## ❓ What is this repository?

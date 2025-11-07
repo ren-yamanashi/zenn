@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint:txt": "textlint '**/*.{md,mdx}'"
+    "lint:txt": "textlint '**/*.md'"
   },
   "author": "",
   "license": "ISC",
